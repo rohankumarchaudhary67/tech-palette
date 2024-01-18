@@ -1,0 +1,7 @@
+{
+    "name": "docs",
+    "version": "0.1.0",
+    "scripts": {
+        "dev": "yarn run dev"
+    }
+}
